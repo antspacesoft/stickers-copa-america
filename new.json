@@ -3,7 +3,7 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"grupoa2021d2b",
+         "identifier":"grupob2021d2b",
          "name":"Brasil vs Peru",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
@@ -156,7 +156,7 @@
          ]
       },
       {
-         "identifier":"grupoa2021d2a",
+         "identifier":"grupob2021d2a",
          "name":"Colombia vs Venezuela",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
@@ -267,7 +267,7 @@
          ]
       },
       {
-         "identifier":"grupob2021d1b",
+         "identifier":"grupoa2021d1b",
          "name":"Paraguay vs Bolivia",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
@@ -354,7 +354,7 @@
          ]
       },
       {
-         "identifier":"grupob2021d1a",
+         "identifier":"grupoa2021d1a",
          "name":"Argentina vs Chile",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
@@ -537,7 +537,7 @@
          ]
       },
       {
-         "identifier":"grupoa2021d1b",
+         "identifier":"grupob2021d1b",
          "name":"Colombia vs Ecuador",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
@@ -636,7 +636,7 @@
          ]
       },
       {
-         "identifier":"grupoa2021d1a",
+         "identifier":"grupob2021d1a",
          "name":"Brasil vs Venezuela",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
